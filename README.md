@@ -2,12 +2,6 @@
   <img src="https://telegra.ph/file/26aa5ce660ccb0ebdb38c.jpg" alt="StringGenBot">
 </p>
 
-### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/AbhiModszYT"><img alt="Website" src="https://img.shields.io/badge/AbhiModszYT-blue"></a>
- 
-[![Stars](https://img.shields.io/github/stars/AbhiModszYT/StringGenBot?style=social)](https://github.com/AbhiModszYT/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AbhiModszYT/StringGenBot?style=social)](https://github.com/AbhiModszYT/StringGenBot/fork)
-
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
