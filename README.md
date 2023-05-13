@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://telegra.ph/file/26aa5ce660ccb0ebdb38c.jpg" alt="StringGenBot">
 </p>
-## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/AbhiModszYT/StringGenBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=StringGenBot&theme=chartreuse-dark"></a>
-
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/AbhiModszYT"><img alt="Website" src="https://img.shields.io/badge/AbhiModszYT-blue"></a>
