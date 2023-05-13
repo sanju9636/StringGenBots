@@ -1,0 +1,42 @@
+{
+  "name": "sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
+  "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions.",
+  "logo": "https://telegra.ph/file/be28adab316f14fd6d0c4.jpg",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    "pyrogram"
+  ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Get this value from @BotFather",
+            "required": true
+        },  
+        "MUST_JOIN": {
+            "description": "Username of a group or channel for which you want to set force sub.(without @)",
+            "required": true      
+        }, 
+        "MONGO_URL": {
+            "description": "mongo db url here Get From mongodb.com",
+            "required": true
+        },
+        "API_ID": {
+            "description": "telegram api id here here Get From My.telegram.org ",
+            "required": true
+        },
+        "OWNER_ID": {
+            "description": "Telegram id of the person who will known as owner of the bot.",
+            "required": true
+        }, 
+        "API_HASH": {
+            "description": "telegram api hash here here Get From My.telegram.org",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
