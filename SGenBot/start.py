@@ -24,7 +24,7 @@ Mᴀᴅᴇ🖤 ʙʏ : [AbhiModszYT](tg://user?id={OWNER_ID}) !""",
                     InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("Channel", url="https://t.me/AbhiModszYT_Return"),
+                    InlineKeyboardButton("Channel", url="https://t.me/AmBotYT"),
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", user_id=OWNER_ID)
                 ]
             ]
