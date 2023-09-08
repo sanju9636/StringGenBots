@@ -11,18 +11,22 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Get this value from @BotFather",
+           "value": "",
             "required": true
         },  
         "MUST_JOIN": {
             "description": "Username of a group or channel for which you want to set force sub.(without @)",
+          "value": "AMBOTYT",
             "required": true      
         }, 
         "MONGO_URL": {
             "description": "mongo db url here Get From mongodb.com",
+          "value": "",
             "required": true
         },
         "API_ID": {
             "description": "telegram api id here here Get From My.telegram.org ",
+          "value": "12227067",
             "required": true
         },
         "OWNER_ID": {
@@ -31,6 +35,7 @@
         }, 
         "API_HASH": {
             "description": "telegram api hash here here Get From My.telegram.org",
+           "value": "b463bedd791aa733ae2297e6520302fe",
             "required": true
         }
     },
