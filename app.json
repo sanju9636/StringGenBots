@@ -21,7 +21,7 @@
         }, 
         "MONGO_URL": {
             "description": "mongo db url here Get From mongodb.com",
-          "value": "",
+          "value": "mongodb+srv://AbhiModszYT:AbhiModszYT@abhimodszyt.pom3ops.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "API_ID": {
@@ -31,6 +31,7 @@
         },
         "OWNER_ID": {
             "description": "Telegram id of the person who will known as owner of the bot.",
+           "value": "6204761408",
             "required": true
         }, 
         "API_HASH": {
