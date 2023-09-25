@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://telegra.ph/file/26aa5ce660ccb0ebdb38c.jpg" alt="StringGenBot">
-</p>
+
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -19,17 +17,9 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AbhiModszYT/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Learningbots79/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-
-### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
-  
-  [sᴛʀɪɴɢ Gen ʙᴏᴛ ](https://t.me/ssgenrobot)
-
-```
-Atleast Give A Star and Fork The Repo 🖤
-```
 
 ## 🗒️ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
 
@@ -37,14 +27,3 @@ Atleast Give A Star and Fork The Repo 🖤
 ☞ `API_HASH` - Get your API_HASH from [my.telegram.org](https://my.telegram.org/apps)<br>
 ☞ `BOT_TOKEN` - Get your BOT_TOKEN from [@BotFather](https://t.me/BotFather)<br>
 ☞ `MONGO_DB_URI` - Get MONGO_DB_URI from [MongoDB.com](https://cloud.mongodb.com)<br>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## 💖 ᴄʀᴇᴅɪᴛs
-- » [AMBOT](https://github.com/AbhiModszYT)
-- » [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](https://t.me/its_star_boi)
-- » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
