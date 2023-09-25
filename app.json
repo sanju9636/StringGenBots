@@ -1,7 +1,7 @@
 {
   "name": "sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions.",
-  "logo": "https://telegra.ph/file/be28adab316f14fd6d0c4.jpg",
+  "logo": "https://graph.org/file/0cb1c93da441e07691082.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -16,27 +16,27 @@
         },  
         "MUST_JOIN": {
             "description": "Username of a group or channel for which you want to set force sub.(without @)",
-          "value": "AMBOTYT",
+          "value": "learningbots79",
             "required": true      
         }, 
         "MONGO_URL": {
             "description": "mongo db url here Get From mongodb.com",
-          "value": "mongodb+srv://AbhiModszYT:AbhiModszYT@abhimodszyt.pom3ops.mongodb.net/?retryWrites=true&w=majority",
+          "value": "",
             "required": true
         },
         "API_ID": {
             "description": "telegram api id here here Get From My.telegram.org ",
-          "value": "12227067",
+          "value": "",
             "required": true
         },
         "OWNER_ID": {
             "description": "Telegram id of the person who will known as owner of the bot.",
-           "value": "6204761408",
+           "value": "",
             "required": true
         }, 
         "API_HASH": {
             "description": "telegram api hash here here Get From My.telegram.org",
-           "value": "b463bedd791aa733ae2297e6520302fe",
+           "value": "",
             "required": true
         }
     },
