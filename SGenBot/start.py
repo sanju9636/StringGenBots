@@ -17,15 +17,15 @@ async def start(bot: Client, msg: Message):
 Tʜɪs ɪs {me2},
  sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Mᴀᴅᴇ🖤 ʙʏ : [AbhiModszYT](tg://user?id={OWNER_ID}) !""",
+Mᴀᴅᴇ 💛 ʙʏ : [⌜Learning Bots⌝](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
+                    InlineKeyboardButton(text="🦋 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🦋", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("Channel", url="https://t.me/AmBotYT"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", user_id=OWNER_ID)
+                    InlineKeyboardButton("⌑ Channel ⌑", url="https://t.me/learningbots79"),
+                    InlineKeyboardButton("⌑ ᴅᴇᴠᴇʟᴏᴩᴇʀ ⌑", user_id=OWNER_ID)
                 ]
             ]
         ),
