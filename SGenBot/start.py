@@ -24,7 +24,7 @@ Mᴀᴅᴇ 💛 ʙʏ : [⌜Learning Bots⌝](tg://user?id={OWNER_ID}) !""",
                     InlineKeyboardButton(text="🦋 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🦋", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("⌑ Channel ⌑", url="https://t.me/learningbots79"),
+                    InlineKeyboardButton("⌑ Channel ⌑", url="https://t.me/Want_To_Know_Mee"),
                     InlineKeyboardButton("⌑ ᴅᴇᴠᴇʟᴏᴩᴇʀ ⌑", user_id=OWNER_ID)
                 ]
             ]
