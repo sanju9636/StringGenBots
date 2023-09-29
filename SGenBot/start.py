@@ -17,7 +17,7 @@ async def start(bot: Client, msg: Message):
 Tʜɪs ɪs {me2},
  sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Mᴀᴅᴇ 💛 ʙʏ : [⌜Learning Bots⌝](tg://user?id={OWNER_ID}) !""",
+Mᴀᴅᴇ 💛 ʙʏ : [⌜NOBITA⌝](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
